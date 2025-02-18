@@ -4,7 +4,7 @@
 ### ➡Criar uma dashboard que analise as principais características dos leads que visitam o e-commerce
 ---
 ## 🛠Ferramentas:
-### ➡SQL (PostreSQL)
+### ➡SQL (PostgreSQL)
 ### ➡Excel
 ---
 
